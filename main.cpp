@@ -22,7 +22,7 @@ int main(int argc, const char * argv[]) {
     a = b;
     b = temp;
     
-    cout << "Your swapped values are: a = " << a << " & b = " << b << endl;
+    cout << "Your swapped values are now: a = " << a << " & b = " << b << endl;
     
     return 0;
 }
